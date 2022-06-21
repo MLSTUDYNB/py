@@ -1,0 +1,5 @@
+print('hehe\thaha')
+print('he\thaha')
+print('avvvsv\rfd')
+print(r'sdvsv\bsvd\\')
+print('http:\\\www.baidu.com')
