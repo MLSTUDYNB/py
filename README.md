@@ -1,2 +1,2 @@
 # py
-python study
+python 学习笔记的记录
